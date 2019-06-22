@@ -6,6 +6,8 @@ This workspace consists of Java EE 7 Samples and unit tests. They are categorize
 Some samples/tests have documentation, otherwise read the code. The [Java EE 7 Essentials](http://www.amazon.com/Java-EE-Essentials-Arun-Gupta/dp/1449370179/) book refers to most of these samples and provides an explanation. Feel free to add docs and send a pull request.
 
 
+## Updating readme file 
+##by Ganesh Rao adding comments
 ## How to run? ##
 
 Samples are tested on Payara, GlassFish, Wildfly and more using the Arquillian ecosystem.
